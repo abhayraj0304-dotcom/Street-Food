@@ -7,13 +7,13 @@ A community-driven web app for rating and tracking street food stall hygiene acr
 ## Screenshots
 
 ### Login Page — Customer View
-![Customer Login](Customer Login.png)
+![Customer Login](customer-login.png)
 
 ### Login Page — Admin View
-![Admin Login]( Admin Login.png)
+![Admin Login]( admin-login.png)
 
 ### Admin Dashboard — Overview
-![Admin Dashboard](Admin Dashboard.png)
+![Admin Dashboard](dashboard.png)
 
 ---
 
